@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\panel.o
+./release\lift.o
+./release\cabin.o
+./release\shaft.o
+./release\moc_mainwindow.o
+./release\moc_panel.o
+./release\moc_lift.o
+./release\moc_cabin.o
+./release\moc_shaft.o
+);
