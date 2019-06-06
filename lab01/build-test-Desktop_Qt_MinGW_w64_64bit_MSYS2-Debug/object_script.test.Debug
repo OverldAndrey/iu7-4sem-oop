@@ -1,0 +1,15 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/transform.o
+./debug/matrix.o
+./debug/data.o
+./debug/process.o
+./debug/drawing.o
+./debug/error.o
+./debug/file_wrap.o
+./debug/figure.o
+./debug/canvas_wrap.o
+./debug/string_wrap.o
+./debug/moc_mainwindow.o
+);
