@@ -1,0 +1,15 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/transform.o
+./release/matrix.o
+./release/data.o
+./release/process.o
+./release/drawing.o
+./release/error.o
+./release/file_wrap.o
+./release/figure.o
+./release/canvas_wrap.o
+./release/string_wrap.o
+./release/moc_mainwindow.o
+);
